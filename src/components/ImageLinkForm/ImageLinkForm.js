@@ -8,7 +8,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
                 {'Facial Recognition Software'}
             </p>
             <p>
-                {'upload a picture and try it out!'}
+                {'upload a picture below and try it out!'}
             </p>
             <div className='center '>
                 <div className='form pa4 br3'>
